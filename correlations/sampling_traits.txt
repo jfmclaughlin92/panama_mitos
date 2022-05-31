@@ -97,16 +97,16 @@ Tody Motmot	Hylomanes momotula	ToMo_Hmo	Momotidae	IV	U	forest	L	N	N	Y	0	1
 Rufous Motmot	Baryphthengus martii	RuMo_Bma	Momotidae	IV	U	forest	L	N	Y	Y	1	3
 Broad-billed Motmot	Electron platyrhynchum	BBMo_Epl	Momotidae	IV	M	forest	L	N	Y	Y	1	1
 Ringed Kingfisher	Megaceryle torquata	RiKi_Mto	Alcedinidae	V	M	forest	H	N	Y	Y	1	1
-Amazon Kingﬁsher	Chloroceryle amazona	AmKi_Cam	Alcedinidae	V	M	forest	H	N	Y	Y	1	1
-Green Kingﬁsher	Chloroceryle americana	GrKi_Cam	Alcedinidae	V	M	forest	H	N	Y	Y	1	1
-Green-and-rufous Kingﬁsher	Chloroceryle inda	GARK_Cin	Alcedinidae	V	M	forest	L	N	Y	Y	1	1
-American Pygmy Kingﬁsher	Chloroceryle aenea	APKi_Cae	Alcedinidae	V	U	forest	L	N	Y	Y	1	2
+Amazon King√ûsher	Chloroceryle amazona	AmKi_Cam	Alcedinidae	V	M	forest	H	N	Y	Y	1	1
+Green King√ûsher	Chloroceryle americana	GrKi_Cam	Alcedinidae	V	M	forest	H	N	Y	Y	1	1
+Green-and-rufous King√ûsher	Chloroceryle inda	GARK_Cin	Alcedinidae	V	M	forest	L	N	Y	Y	1	1
+American Pygmy King√ûsher	Chloroceryle aenea	APKi_Cae	Alcedinidae	V	U	forest	L	N	Y	Y	1	2
 Barred Puffbird	Nystalus radiatus	BaPu_Nra	Bucconidae	I	M	forest	L	N	N	Y	0	1
 Pied Puffbird	Notharchus tectus	PiPu_Nte	Bucconidae	I	C	forest	L	N	Y	Y	1	1
 White-whiskered Puffbird	Malacoptila panamensis	WWPu_Mpa	Bucconidae	I	U	forest	L	N	Y	Y	1	2
 Gray-cheeked Nunlet	Nonnula frontalis	GCNu_Nfr	Bucconidae	I	U	forest	L	N	N	Y	0	1
 White-fronted Nunbird	Monasa morphoeus	WFNu_Mmo	Bucconidae	I	C	forest	L	N	Y	Y	0	1
-Rufous-tailed Jacamar	Galbula ruﬁcauda	RTJa_Gru	Galbulidae	I	U	forest	L	N	Y	Y	1	2
+Rufous-tailed Jacamar	Galbula ru√ûcauda	RTJa_Gru	Galbulidae	I	U	forest	L	N	Y	Y	1	2
 Spot-crowned Barbet	Capito maculicoronatus	SCBa_Cma	Capitonidae	O	C	forest	L	N	N	Y	0	1
 Red-headed Barbet	Eubucco bourcierii	RHBa_Ebo	Capitonidae	O	C	forest	H	N	N	Y	0	1
 Prong-billed Barbet	Semnornis frantzii	PBBa_Sfr	Semnornithidae	F	C	forest	H	N	N	Y	0	1
@@ -149,7 +149,7 @@ Speckled Antshrike	Xenornis setifrons	SpAn_Xse	Thamnophilidae	I	U	forest	L	N	N	Y
 Russet Antshrike	Thamnistes anabatinus	RuAn_Tan	Thamnophilidae	I	C	forest	L	N	Y	Y	0	1
 Plain Antvireo	Dysithamnus mentalis	PlAn_Dme	Thamnophilidae	I	U	forest	H	N	Y	Y	0	1
 Spot-crowned Antvireo	Dysithamnus puncticeps	SCAn_Dpu	Thamnophilidae	I	U	forest	L	N	Y	Y	1	1
-White-ﬂanked Antwren	Myrmotherula axillaris	WFAn_Max	Thamnophilidae	I	U	forest	L	N	Y	Y	1	1
+White-√üanked Antwren	Myrmotherula axillaris	WFAn_Max	Thamnophilidae	I	U	forest	L	N	Y	Y	1	1
 Slaty Antwren	Myrmotherula schisticolor	SlAn_Msc	Thamnophilidae	I	U	forest	H	N	Y	Y	1	1
 Checker-throated Antwren	Epinecrophylla fulviventris	CTAn_Efu	Thamnophilidae	I	U	forest	L	N	Y	Y	1	1
 Dot-winged Antwren	Microrhopias quixensis	DWAn_Mqu	Thamnophilidae	I	M	forest	L	N	Y	Y	1	2
@@ -167,7 +167,7 @@ Streak-chested Antpitta	Hylopezus perspicillatus	SCAn_Hpe	Grallariidae	I	G	fores
 Thicket Antpitta	Hylopezus dives	ThAn_Hdi	Grallariidae	I	G	forest	L	N	Y	Y	0	1
 Silvery-fronted Tapaculo	Scytalopus argentifrons	SFTa_Sar	Rhinocryptidae	I	G	forest	H	N	N	Y	0	1
 Black-faced Antthrush	Formicarius analis	BFAn_Fan	Formicariidae	I	G	forest	L	N	Y	Y	1	1
-Rufous-breasted Antthrush	Formicarius ruﬁpectus	RBAn_Fru	Formicariidae	I	G	forest	H	N	Y	Y	0	1
+Rufous-breasted Antthrush	Formicarius ru√ûpectus	RBAn_Fru	Formicariidae	I	G	forest	H	N	Y	Y	0	1
 Scaly-throated Leaftosser	Sclerurus guatemalensis	STLe_Sgu	Furnariidae	I	G	forest	L	N	Y	Y	1	2
 Long-tailed Woodcreeper	Deconychura longicauda	LTWo_Dlo	Furnariidae	I	U	forest	L	N	Y	Y	0	1
 Ruddy Woodcreeper	Dendrocincla homochroa	RuWo_Dho	Furnariidae	I	U	forest	L	N	Y	Y	0	1
@@ -180,7 +180,7 @@ Spotted Woodcreeper	Xiphorhynchus erythropygius	SpWo_Xer	Furnariidae	I	C	forest	
 Red-billed Scythebill	Campylorhamphus trochilirostris	RBSc_Ctr	Furnariidae	I	U	forest	L	N	N	Y	0	1
 Brown-billed Scythebill	Campylorhamphus pusillus	BBSc_Cpu	Furnariidae	I	U	forest	H	N	Y	Y	0	1
 Streak-headed Woodcreeper	Lepidocolaptes souleyetii	SHWo_Lso	Furnariidae	I	C	open	L	N	Y	Y	0	1
-Spot-crowned Woodcreeper	Lepidocolaptes afﬁnis	SCWo_Laf	Furnariidae	I	M	forest	H	N	N	Y	0	1
+Spot-crowned Woodcreeper	Lepidocolaptes af√ûnis	SCWo_Laf	Furnariidae	I	M	forest	H	N	N	Y	0	1
 Plain Xenops	Xenops minutus	PlXe_Xmi	Furnariidae	I	M	forest	L	N	Y	Y	1	2
 Slaty-winged Foliage-gleaner	Philydor fuscipenne	SWFG_Pfu	Furnariidae	I	U	forest	L	N	N	Y	0	1
 Lineated Foliage-gleaner	Syndactyla subalaris	LiFG_Ssu	Furnariidae	I	U	forest	H	N	Y	Y	0	1
@@ -232,12 +232,12 @@ Eye-ringed Flatbill	Rhynchocyclus brevirostris	ERFl_Rbr	Tyrannidae	I	C	forest	L	
 Olivaceous Flatbill	Rhynchocyclus olivaceus	OlFl_Rol	Tyrannidae	I	M	forest	L	N	N	Y	1	1
 Yellow-olive Flycatcher	Tolmomyias sulphurescens	YOFl_Tsu	Tyrannidae	I	M	forest	L	N	Y	Y	1	1
 Yellow-margined Flycatcher	Tolmomyias assimilis	YMFl_Tas	Tyrannidae	I	C	forest	L	N	Y	Y	1	1
-Yellow-breasted Flycatcher	Tolmomyias ﬂaviventris	YBFl_Tfl	Tyrannidae	I	C	forest	L	N	N	Y	0	1
+Yellow-breasted Flycatcher	Tolmomyias √üaviventris	YBFl_Tfl	Tyrannidae	I	C	forest	L	N	N	Y	0	1
 Brown-capped Tyrannulet	Ornithion brunneicapillus	BCTy_Obr	Tyrannidae	I	C	forest	L	N	Y	Y	1	1
-Yellow Tyrannulet	Capsiempis ﬂaveola	YeTy_Cfl	Tyrannidae	I	U	edge	L	N	Y	Y	0	1
+Yellow Tyrannulet	Capsiempis √üaveola	YeTy_Cfl	Tyrannidae	I	U	edge	L	N	Y	Y	0	1
 Yellow-crowned Tyrannulet	Tyrannulus elatus	YCTy_Tel	Tyrannidae	I	C	forest	L	N	Y	Y	0	1
 Greenish Elaenia	Myiopagis viridicata	GrEl_Mvi	Tyrannidae	I	C	edge	L	N	Y	Y	1	1
-Yellow-bellied Elaenia	Elaenia ﬂavogaster	YBEl_Efl	Tyrannidae	F	C	edge	L	N	Y	Y	1	1
+Yellow-bellied Elaenia	Elaenia √üavogaster	YBEl_Efl	Tyrannidae	F	C	edge	L	N	Y	Y	1	1
 Lesser Elaenia	Elaenia chiriquensis	LeEl_Ech	Tyrannidae	F	C	open	L	N	Y	Y	1	1
 Mountain Elaenia	Elaenia frantzii	MoEl_Efr	Tyrannidae	F	C	open	H	N	N	Y	0	1
 Paltry Tyrannulet	Zimmerius vilissimus	PaTy_Zvi	Tyrannidae	F	C	edge	L	N	Y	Y	1	1
@@ -258,17 +258,17 @@ Pied Water-Tyrant	Fluvicola pica	PiWT_Fpi	Tyrannidae	I	U	open	L	N	N	Y	1	1
 Northern Scrub-Flycatcher	Sublegatus arenarum	NoSF_Sar	Tyrannidae	I	U	edge	L	N	Y	Y	0	1
 Long-tailed Tyrant	Colonia colonus	LTTy_Cco	Tyrannidae	I	C	edge	L	N	Y	Y	1	1
 Rufous-browed Peppershrike	Cyclarhis gujanensis	RBPe_Cgu	Vireonidae	I	C	forest	L	N	Y	Y	1	2
-Scrub Greenlet	Hylophilus ﬂavipes	ScGr_Hfl	Vireonidae	I	U	edge	L	N	N	Y	0	1
+Scrub Greenlet	Hylophilus √üavipes	ScGr_Hfl	Vireonidae	I	U	edge	L	N	N	Y	0	1
 Tawny-crowned Greenlet	Tunchiornis ochraceiceps	TCGr_Toc	Vireonidae	I	U	forest	L	N	Y	Y	1	1
 Lesser Greenlet	Pachysylvia decurtata	LeGr_Pde	Vireonidae	G	C	forest	L	N	Y	Y	1	2
 Yellow-winged Vireo	Vireo carmioli	YWVi_Vca	Vireonidae	I	C	forest	H	N	N	Y	0	1
 Brown-capped Vireo	Vireo leucophrys	BCVi_Vle	Vireonidae	I	C	forest	H	N	N	Y	0	1
 Azure-hooded Jay	Cyanolyca cucullata	AHJa_Ccu	Corvidae	O	C	forest	H	N	N	Y	0	1
 Brown Jay	Psilorhinus morio	BrJa_Pmo	Corvidae	O	C	edge	L	N	N	Y	0	1
-Black-chested Jay	Cyanocorax afﬁnis	BCJa_Caf	Corvidae	O	C	forest	L	N	N	Y	0	1
+Black-chested Jay	Cyanocorax af√ûnis	BCJa_Caf	Corvidae	O	C	forest	L	N	N	Y	0	1
 Gray-breasted Martin	Progne chalybea	GBMa_Pch	Hirundinidae	I	A	open	L	N	Y	Y	1	1
 Mangrove Swallow	Tachycineta albilinea	MaSw_Tal	Hirundinidae	I	A	open	L	N	Y	Y	0	1
-Southern Rough-winged Swallow	Stelgidopteryx ruﬁcollis	SRWS_Sru	Hirundinidae	I	A	open	L	N	Y	Y	1	1
+Southern Rough-winged Swallow	Stelgidopteryx ru√ûcollis	SRWS_Sru	Hirundinidae	I	A	open	L	N	Y	Y	1	1
 Southern Nightingale-Wren	Microcerculus marginatus	SoNW_Mma	Troglodytidae	I	G	forest	L	N	Y	Y	1	1
 House Wren	Troglodytes aedon	HoWr_Tae	Troglodytidae	I	U	open	L	N	Y	Y	1	1
 Ochraceous Wren	Troglodytes ochraceus	OcWr_Toc	Troglodytidae	I	M	forest	H	N	Y	Y	0	1
@@ -300,7 +300,7 @@ Pale-vented Thrush	Turdus obsoletus	PVTh_Tob	Turdidae	O	M	forest	H	N	Y	Y	1	1
 Clay-colored Thrush	Turdus grayi	CCTh_Tgr	Turdidae	O	G	forest	L	N	Y	Y	1	1
 White-throated Thrush	Turdus assimilis	WTTh_Tas	Turdidae	O	U	forest	L	N	Y	Y	1	2
 Tropical Mockingbird	Mimus gilvus	TrMo_Mgi	Mimidae	O	U	open	L	I	N	Y	0	1
-Black-and-yellow Silky-ﬂycatcher	Phainoptila melanoxantha	BYSF_Pme	Ptiliogonatidae	F	M	forest	H	N	N	Y	0	1
+Black-and-yellow Silky-√üycatcher	Phainoptila melanoxantha	BYSF_Pme	Ptiliogonatidae	F	M	forest	H	N	N	Y	0	1
 Golden-browed Chlorophonia	Chlorophonia callophrys	GBCh_Cca	Fringillidae	F	C	forest	H	N	N	Y	0	1
 Yellow-crowned Euphonia	Euphonia luteicapilla	YCEu_Elu	Fringillidae	F	C	edge	L	N	Y	Y	0	1
 Thick-billed Euphonia	Euphonia laniirostris	TBEu_Ela	Fringillidae	F	C	edge	L	N	Y	Y	1	1
@@ -313,15 +313,15 @@ Rosy Thrush-Tanager	Rhodinocichla rosea	RoTT_Rro	Rhodinocichlidae	I	U	forest	L	N
 Yellow-green Finch	Pselliophorus luteoviridis	YGFi_Plu	Passerellidae	O	U	forest	H	N	N	Y	0	1
 Orange-billed Sparrow	Arremon aurantiirostris	OBSp_Aau	Passerellidae	G	U	forest	L	N	Y	Y	1	2
 Sooty-faced Finch	Arremon crassirostris	SFFi_Acr	Passerellidae	O	U	forest	H	N	Y	Y	0	1
-Chestnut-capped Brushﬁnch	Arremon brunneinucha	CCBr_Abr	Passerellidae	G	U	forest	H	N	Y	Y	1	2
+Chestnut-capped Brush√ûnch	Arremon brunneinucha	CCBr_Abr	Passerellidae	G	U	forest	H	N	Y	Y	1	2
 Black-striped Sparrow	Arremonops conirostris	BSSp_Aco	Passerellidae	O	U	edge	L	N	Y	Y	1	1
-White-naped Brushﬁnch	Atlapetes albinucha	WNBr_Aal	Passerellidae	O	U	forest	H	N	N	Y	0	1
+White-naped Brush√ûnch	Atlapetes albinucha	WNBr_Aal	Passerellidae	O	U	forest	H	N	N	Y	0	1
 Rufous-collared Sparrow	Zonotrichia capensis	RCSp_Zca	Passerellidae	G	G	open	H	N	N	Y	0	1
-Common Chlorospingus	Chlorospingus ﬂavopectus	CoCh_Cfl	Passerellidae	O	M	forest	H	N	N	Y	0	1
+Common Chlorospingus	Chlorospingus √üavopectus	CoCh_Cfl	Passerellidae	O	M	forest	H	N	N	Y	0	1
 Tacarcuna Chlorospingus	Chlorospingus tacarcunae	TaCh_Cta	Passerellidae	O	M	forest	H	N	N	Y	0	1
 Pirre Chlorospingus	Chlorospingus inornatus	PiCh_Cin	Passerellidae	O	C	forest	H	N	N	Y	0	1
 Sooty-capped Chlorospingus	Chlorospingus pileatus	SCCh_Cpi	Passerellidae	O	M	forest	H	N	N	Y	0	1
-Yellow-throated Chlorospingus	Chlorospingus ﬂavigularis	YTCh_Cfl	Passerellidae	O	U	forest	H	N	N	Y	0	1
+Yellow-throated Chlorospingus	Chlorospingus √üavigularis	YTCh_Cfl	Passerellidae	O	U	forest	H	N	N	Y	0	1
 Wrenthrush	Zeledonia coronata	Wren_Zco	Zeledoniidae	I	G	forest	H	N	N	Y	0	1
 Eastern Meadowlark	Sturnella magna	EaMe_Sma	Icteridae	I	G	open	L	N	N	Y	0	1
 Red-breasted Meadowlark	Leistes militaris	RBMe_Lmi	Icteridae	I	G	open	L	N	Y	Y	0	1
@@ -336,11 +336,11 @@ Bronzed Cowbird	Molothrus aeneus	BrCo_Mae	Icteridae	O	G	open	L	N	N	Y	0	1
 Giant Cowbird	Molothrus oryzivorus	GiCo_Mor	Icteridae	P	C	open	L	N	Y	Y	0	1
 Great-tailed Grackle	Quiscalus mexicanus	GTGr_Qme	Icteridae	O	G	open	L	N	Y	Y	1	1
 Flame-throated Warbler	Oreothlypis gutturalis	FTWa_Ogu	Parulidae	I	C	edge	H	N	N	Y	0	1
-Olive-crowned Yellowthroat	Geothlypis semiﬂava	OCYe_Gse	Parulidae	I	U	open	L	N	N	Y	0	1
+Olive-crowned Yellowthroat	Geothlypis semi√üava	OCYe_Gse	Parulidae	I	U	open	L	N	N	Y	0	1
 Tropical Parula	Setophaga pitiayumi	TrPa_Spi	Parulidae	I	C	edge	H	N	Y	Y	1	1
 Yellow Warbler	Setophaga petechia	YeWa_Spe	Parulidae	I	U	edge	L	N	Y	Y	1	2
 Buff-rumped Warbler	Myiothlypis fulvicauda	BRWa_Mfu	Parulidae	I	G	forest	L	N	Y	Y	1	2
-Rufous-capped Warbler	Basileuterus ruﬁfrons	RCWa_Bru	Parulidae	I	M	edge	L	N	N	Y	1	1
+Rufous-capped Warbler	Basileuterus ru√ûfrons	RCWa_Bru	Parulidae	I	M	edge	L	N	N	Y	1	1
 Black-cheeked Warbler	Basileuterus melanogenys	BCWa_Bme	Parulidae	I	U	forest	H	N	N	Y	0	1
 Golden-crowned Warbler	Basileuterus culicivorus	GCWa_Bcu	Parulidae	I	U	forest	H	N	N	Y	1	1
 Costa Rican Warbler	Basileuterus melanotis	CRWa_Bme	Parulidae	I	U	forest	H	N	N	(N) note- recent split of Three-striped		
@@ -379,7 +379,7 @@ Crimson-backed Tanager	Ramphocelus dimidiatus	CBTa_Rdi	Thraupidae	F	U	edge	L	N	N
 Shining Honeycreeper	Cyanerpes lucidus	ShHo_Clu	Thraupidae	F	C	forest	L	N	Y	Y	0	1
 Red-legged Honeycreeper	Cyanerpes cyaneus	RLHo_Ccy	Thraupidae	F	C	forest	L	N	Y	Y	1	1
 Blue Dacnis	Dacnis cayana	BlDa_Dca	Thraupidae	P	C	edge	L	N	Y	Y	1	1
-Bananaquit	Coereba ﬂaveola	Bana_Cfl	Thraupidae	N	C	edge	L	N	N	Y	1	1
+Bananaquit	Coereba √üaveola	Bana_Cfl	Thraupidae	N	C	edge	L	N	N	Y	1	1
 Yellow-faced Grassquit	Tiaris olivaceus	YFGr_Tol	Thraupidae	G	U	open	L	N	Y	Y	1	1
 Slate-colored Seedeater	Sporophila schistacea	SCSe_Ssc	Thraupidae	G	U	edge	L	N	Y	Y	0	1
 Ruddy-breasted Seedeater	Sporophila minuta	RBSe_Smi	Thraupidae	G	U	open	L	N	Y	Y	0	1
